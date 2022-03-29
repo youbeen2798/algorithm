@@ -22,7 +22,7 @@ int main() {
 
 	cin >> n >> k;
 	for (int i = 1; i <= n; i++) {
-		cin >> w[i] >> v[i]; //�� ������ ���Կ� ��ġ
+		cin >> w[i] >> v[i]; //°¢ ¹°°ÇÀÇ ¹«°Ô¿Í °¡Ä¡
 	}
 
 	
